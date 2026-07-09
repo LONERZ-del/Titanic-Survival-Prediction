@@ -63,6 +63,4 @@ Titanic_Survival_Prediction.ipynb
 ### Confusion Matrix
 ![Confusion Matrix](images/confusion-matrix.png)
 
-## Author
 
-Nithin J M
