@@ -55,13 +55,13 @@ Titanic_Survival_Prediction.ipynb
 ## Screenshots
 
 ### Gradio Interface
-![Gradio Interface](images/Screenshot 2026-04-21 135753.png)
+![Gradio Interface](images/gradio-ui.png)
 
 ### Feature Importance
-![Feature Importance](images/Screenshot 2026-04-22 152945.png)
+![Feature Importance](images/feature-importance.png)
 
 ### Confusion Matrix
-![Confusion Matrix](images/Screenshot 2026-04-21 140728.png)
+![Confusion Matrix](images/confusion-matrix.png)
 
 ## Author
 
